@@ -1,1 +1,1 @@
-# inf-takm-pripreme
+# inf-takmicenja-pripreme
